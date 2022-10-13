@@ -1,5 +1,7 @@
 [![pic](https://github.com/greeger/greeger/blob/master/pictures/Lando_poker.png "bruh")](https://t.me/gerg_pozhil)
 
+[link](javascript:alert('Hello World!');)
+
 <a href="javascript:alert('Hello World!');">Execute JavaScript</a>
 
 <button type="button"
