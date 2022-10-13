@@ -3,3 +3,7 @@
 <a href="https://t.me/gerg_pozhil" target="_blank">
 <img src="https://github.com/greeger/greeger/blob/master/pictures/Lando_poker.png" alt="bruh" cursor="cross"/>
 </a>
+
+<a download="https://github.com/greeger/greeger/blob/master/pictures/Lando_poker.png?raw=true" target="_blank">
+<img src="https://github.com/greeger/greeger/blob/master/pictures/Lando_poker.png" alt="bruh" cursor="cross"/>
+</a>
