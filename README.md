@@ -3,7 +3,9 @@
 <html>
 
 <head>
-  <title>HTML Test</title>
+  <title>
+    HTML Test
+  </title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
