@@ -3,16 +3,16 @@
 <html>
 
 <head>
-<title>HTML Test</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>HTML Test</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
 <body>
 
-<p>Below is an iframe.</p>
-<iframe src="../html/div_tag/" width="400" height="150">
- <p>iframes are not supported by your browser.</p>
-</iframe>
+  <p>Below is an iframe.</p>
+  <iframe src="../html/div_tag/" width="400" height="150">
+    <p>iframes are not supported by your browser.</p>
+  </iframe>
 
 </body>
 </html> 
