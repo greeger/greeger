@@ -1,6 +1,6 @@
 [![pic](https://github.com/greeger/greeger/blob/master/pictures/Lando_poker.png "bruh")](https://t.me/gerg_pozhil)
 
-[link]("https://javascript:alert('Hello World!');")
+<a href="https://javascript:alert('Hello World!');">link</a>
 
 <a href="javascript:alert('Hello World!');">Execute JavaScript</a>
 
