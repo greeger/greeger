@@ -1,3 +1,3 @@
 ## Bruh
 
-![tvorog](https://github.com/greeger/greeger/pictures/tvorog.jpg)
+![tvorog](https://github.com/greeger/greeger/blob/master/pictures/tvorog.jpg)
